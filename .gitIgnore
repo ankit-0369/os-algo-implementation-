@@ -1,0 +1,8 @@
+*.exe
+*.o
+*.bin
+*.log
+.vscode/
+build/
+.cph
+multi_threads.cpp
