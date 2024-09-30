@@ -20,7 +20,7 @@ This repository contains implementations of important algorithms related to oper
 
 ## Process Scheduling Algorithms
 
-- [ ] First-Come, First-Served (FCFS)
+- [✅ ] First-Come, First-Served (FCFS)
 - [ ] Shortest Job First (SJF)
 - [ ] Round Robin (RR)
 - [ ] Priority Scheduling
